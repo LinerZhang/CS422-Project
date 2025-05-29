@@ -32,12 +32,19 @@ This project successfully built a multi-model diagnostic framework, validating t
 
 ### Bibliography 
 [1] R. B. Lipton et al., “Prevalence and burden of migraine in the United States: data from the American Migraine Study II,” Headache, vol. 41, no. 7, pp. 646-657, 2001.
+
 [2] X. Li et al., “Epidemiology of migraine in China: A nationwide population-based study,” Journal of Neurology, vol. 265, no. 3, pp. 659-666, 2018.
+
 [3] J. R. Quinlan, “Induction of decision trees,” Machine Learning, vol. 1, no. 1, pp. 81-106, 1986.
+
 [4] T. Cover and P. Hart, “Nearest neighbor pattern classification,” IEEE Transactions on Information Theory, vol. 13, no. 1, pp. 21-27, 1967.
+
 [5] G. H. John and P. Langley, “Estimating continuous distributions in Bayesian classifiers,” Proceedings of the Eleventh Conference on Uncertainty in Artificial Intelligence, pp. 338-345, 1995.
+
 [6] L. Breiman, “Random forests,” Machine Learning, vol. 45, no. 1, pp. 5-32, 2001.
+
 [7] Y. Freund and R. E. Schapire, “A decision-theoretic generalization of on-line learning and an application to boosting,” Journal of Computer and System Sciences, vol. 55, no. 1, pp. 119-139, 1997.
+
 [8] D. H. Wolpert, “Stacked generalization,” Neural Networks, vol. 5, no. 2, pp. 241-259, 1992.
 
 ##### Contact and Further Information
